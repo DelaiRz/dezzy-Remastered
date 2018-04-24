@@ -1,6 +1,6 @@
 # dezzy's indigo remastered
 
-Currently in progress - Code may not work until its completed:
+## NOTE: Currently in progress - Code may not work until its completed:
 
 - Removing some obsolete source code.
 
