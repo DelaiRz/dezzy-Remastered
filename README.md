@@ -32,4 +32,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # Credit to the OG dev - Show him some love!
-# -smefcc https://github.com/smefcc/smef-s-Indigo-Remasterd/blob/master/LICENSE
+# -smefcc 
+https://github.com/smefcc/smef-s-Indigo-Remasterd/blob/master/LICENSE
