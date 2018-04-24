@@ -1,23 +1,14 @@
-# smef's Indigo Remastered
+# dezzy's indigo remastered
 
-Notice: You must include protobuf yourself!
+Currently in progress - Code may not work until its completed:
 
-Watch this; https://youtu.be/4VumbtVsv3c to learn how to include protobuf
+-Removing some obsolete source code.
+-Removing the features not needed - Will be purely legitbot and maybe skin changer.
+-Modifying the UI to match feature list
+-Recoding some of the sections from scratch to lower sig chance
 
-Recently people have been reporting "compiler is out of heap space" error; if you receive this read this. https://msdn.microsoft.com/en-us/library/yz7kx3y2.aspx - Possibly fixed now
 
-4.2
-+ Menu (changed)
-+ Aimbot (improved)
-+ ColorPicker (added new one)
-+ Inventory Changer (made by Haterul on forum) (also made a combo with all weapons id and rarity)
-+ Profile Changer (made by Haterul on forum)
-+ Gloves (new ones)
-
-smef's Indigo is published under the MIT License;
-MIT License
-
-Copyright (c) 2018 smefcc
+Copyright (c) 2018 delairz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -37,4 +28,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-https://github.com/smefcc/smef-s-Indigo-Remasterd/blob/master/LICENSE
+# Credit to the original coder I forked from - Show him some love!
+-smefcc https://github.com/smefcc/smef-s-Indigo-Remasterd/blob/master/LICENSE
