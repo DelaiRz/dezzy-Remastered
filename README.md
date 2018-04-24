@@ -31,5 +31,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# Credit to the original coder I forked from - Show him some love!
--smefcc https://github.com/smefcc/smef-s-Indigo-Remasterd/blob/master/LICENSE
+# Credit to the OG dev - Show him some love!
+# -smefcc https://github.com/smefcc/smef-s-Indigo-Remasterd/blob/master/LICENSE
