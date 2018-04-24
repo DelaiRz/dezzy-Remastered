@@ -31,6 +31,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# Credit to the OG dev - Show him some love!
+# Credit to the OG dev - Show some love!
 ## -[smefcc](https://github.com/smefcc/)
 
