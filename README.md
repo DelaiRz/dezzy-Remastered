@@ -33,4 +33,4 @@ SOFTWARE.
 
 # Credit to the OG dev - Show him some love!
 # -smefcc 
-https://github.com/smefcc/smef-s-Indigo-Remasterd/blob/master/LICENSE
+https://github.com/smefcc/
