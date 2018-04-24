@@ -3,8 +3,11 @@
 Currently in progress - Code may not work until its completed:
 
 -Removing some obsolete source code.
+
 -Removing the features not needed - Will be purely legitbot and maybe skin changer.
+
 -Modifying the UI to match feature list
+
 -Recoding some of the sections from scratch to lower sig chance
 
 
