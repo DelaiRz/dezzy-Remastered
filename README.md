@@ -2,13 +2,13 @@
 
 Currently in progress - Code may not work until its completed:
 
--Removing some obsolete source code.
+- Removing some obsolete source code.
 
--Removing the features not needed - Will be purely legitbot and maybe skin changer.
+- Removing the features not needed - Will be purely legitbot and maybe skin changer.
 
--Modifying the UI to match feature list
+- Modifying the UI to match feature list
 
--Recoding some of the sections from scratch to lower sig chance
+- Recoding some of the sections from scratch to lower sig chance
 
 
 Copyright (c) 2018 delairz
@@ -32,5 +32,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # Credit to the OG dev - Show him some love!
-# -smefcc 
-https://github.com/smefcc/
+## -[smefcc](https://github.com/smefcc/)
+
